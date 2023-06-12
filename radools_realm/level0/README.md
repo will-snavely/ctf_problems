@@ -6,7 +6,7 @@ recent version of Java installed, and then:
 1. Extract the level0 zip file. You will find a game client jar (`level0.jar1`), a save file (`savelvl0.rr1`), 
 a snippet of the vulnerable server code (`Level0Server.java`), and a configuration file (`server.conf`).
 
-2. Run the game server jar from the parent directory
+2. Run the game server jar from the parent directory (e.g. in a separate terminal or in the background).
 
 ```
 java -jar server.jar 0 3145
