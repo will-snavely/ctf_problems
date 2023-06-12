@@ -14,6 +14,6 @@ java -jar server.jar 0 3145
 
 3. Run the game client jar.
 
-``
+```
 java -jar client.jar
 ```
