@@ -1,4 +1,4 @@
-# Radool's Realm, Level 0
+# Radool's Realm, Level 1
 
 Turn on all of the achievements to get the flag! To play, you must have a 
 recent version of Java installed, and then:
